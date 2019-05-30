@@ -1,0 +1,12 @@
+{
+  "name": "AwsSnsSubscriptionList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nikhil3000/AwsSnsSubscriptionList.git",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.465.0",
+    "dotenv": "^8.0.0",
+    "node-xlsx": "^0.15.0"
+  }
+}
